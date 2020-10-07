@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SearchViewApp</string>
+    <string name="filter_archived">Archived</string>
+    <string name="filter_all">All</string>
+    <string name="filter_active">Active</string>
+    <string name="label_no_result_found">Nothing was found!</string>
+    <string name="label_archived">Archived</string>
+    <string name="label_something_went_wrong">Ups, something went wrong!</string>
+    <string name="label_search_for_a_task">Search for a task using a few keywords</string>
+    <string name="label__search_for_task_tittle">You can search for task tittles,notes user using @ tags using $ checklist items and much more</string>
+    <string name="desc_search_image">search image</string>
+    <string name="desc_archive_icon">archive icon</string>
+    <string name="label_task_name">Task Name: </string>
+</resources>

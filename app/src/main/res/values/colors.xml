@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ff000000</color>
+    <color name="colorPrimaryDark">#EDEDED</color>
+    <color name="colorAccent">#ff000000</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="colorGreySmoke">#EAECEE</color>
+    <color name="colorWhiteSmoke">#FEFEFE</color>
+    <color name="colorGreySmokeHeavy">#EDEDED</color>
+    <color name="white_background_color">#EDF1F2</color>
+    <color name="white_search_view_color">#C2C6C5</color>
+    <color name="white_filter_color">#DDE1E8</color>
+    <color name="grey_filter_color">#A1ACB4</color>
+
+</resources>

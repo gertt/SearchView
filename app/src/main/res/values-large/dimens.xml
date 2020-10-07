@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txt_filter">20sp</dimen>
+    <dimen name="txt_description_filter">19sp</dimen>
+    <dimen name="txt_card">19sp</dimen>
+</resources>

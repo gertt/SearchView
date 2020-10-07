@@ -1,0 +1,6 @@
+<resources>
+
+    <dimen name="txt_filter">16sp</dimen>
+    <dimen name="txt_description_filter">15sp</dimen>
+    <dimen name="txt_card">15sp</dimen>
+</resources>
