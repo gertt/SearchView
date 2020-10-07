@@ -13,6 +13,7 @@ import com.gprifti.app.databinding.ListItemArchivedTaskBindingImpl
 import com.gprifti.app.models.Task
 import kotlinx.android.synthetic.main.list_item_active_task.view.*
 
+
 class SearchTaskAdapter(var task: List<Task>, context: Context) : RecyclerView.Adapter<SearchTaskAdapter.BaseViewHolder<*>>() {
 
     abstract class BaseViewHolder<T>(dataBinding: ViewDataBinding) : RecyclerView.ViewHolder(dataBinding.root) {
