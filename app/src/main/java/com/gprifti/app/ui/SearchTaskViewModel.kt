@@ -63,7 +63,7 @@ class SearchTaskViewModel(
     }
 
     /** -when one of filter button is clicked, this method gets called directly form xml and change the filterType value if the
-      filter was not selected before */
+    filter was not selected before */
     fun changeFilterState(stateValue: Int) {
         if (tempFilter == stateValue) return
         tempFilter = stateValue

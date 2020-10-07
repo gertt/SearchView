@@ -4,6 +4,7 @@ import com.gprifti.app.util.Constants.Companion.BASE_URL
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
+
 import retrofit2.converter.gson.GsonConverterFactory
 
 class RetrofitInstance {
@@ -21,8 +22,8 @@ class RetrofitInstance {
                 .build()
         }
 
-        val API: API by lazy {
-            retrofit.create(API::class.java)
+        val api: APISearch by lazy {
+            retrofit.create(APISearch::class.java)
         }
     }
 }
